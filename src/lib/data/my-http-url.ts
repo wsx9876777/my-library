@@ -15,4 +15,5 @@ export const LibHttpUrl = {
     tokenCheck: "api/Login/TokenCheck",
     voucher: "api/voucher",
     voucherRedeem: "api/voucher/Redeem",
+    SystemSetting: "api/SystemSetting"
 }
